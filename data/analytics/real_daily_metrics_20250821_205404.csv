@@ -1,0 +1,3 @@
+platform,date,engagement_score_sum,engagement_score_mean,engagement_score_count,likes_sum,comments_sum,shares_sum,engagement_ma
+youtube,2025-08-20,3,0.3,10,3,0,0,3.0
+youtube,2025-08-21,374,9.35,40,352,22,0,188.5

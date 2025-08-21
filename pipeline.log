@@ -1,0 +1,26 @@
+2025-08-20 22:35:14,670 - pipeline - INFO - Starting social media analytics pipeline
+2025-08-20 22:35:14,670 - pipeline - INFO - Using mock data for testing
+2025-08-20 22:35:14,711 - pipeline - INFO - Processed 1000 records
+2025-08-20 22:35:14,747 - pipeline - INFO - Analytics completed successfully
+2025-08-20 22:35:14,885 - pipeline - INFO - Pipeline completed successfully. Processed 1000 records
+2025-08-20 22:35:54,316 - pipeline - INFO - Starting social media analytics pipeline
+2025-08-20 22:35:54,317 - pipeline - INFO - Using mock data for testing
+2025-08-20 22:35:54,346 - pipeline - INFO - Processed 1000 records
+2025-08-20 22:35:54,370 - pipeline - INFO - Analytics completed successfully
+2025-08-20 22:35:54,410 - pipeline - INFO - Pipeline completed successfully. Processed 1000 records
+2025-08-20 22:43:40,613 - pipeline - INFO - Starting social media analytics pipeline
+2025-08-20 22:43:40,614 - pipeline - INFO - Using mock data for testing
+2025-08-20 22:43:40,642 - pipeline - INFO - Processed 1000 records
+2025-08-20 22:43:40,664 - pipeline - INFO - Analytics completed successfully
+2025-08-20 22:43:40,729 - pipeline - INFO - Pipeline completed successfully. Processed 1000 records
+2025-08-20 22:45:45,596 - pipeline - INFO - Starting social media analytics pipeline
+2025-08-20 22:45:45,596 - pipeline - INFO - Using mock data for testing
+2025-08-20 22:45:45,624 - pipeline - INFO - Processed 1000 records
+2025-08-20 22:45:45,646 - pipeline - INFO - Analytics completed successfully
+2025-08-20 22:45:45,697 - pipeline - INFO - Pipeline completed successfully. Processed 1000 records
+2025-08-21 10:45:51,474 - pipeline - INFO - Collecting data from twitter...
+2025-08-21 10:45:51,485 - pipeline - INFO - Collecting data from youtube...
+2025-08-21 10:45:53,101 - pipeline - WARNING - No data collected from any platform
+2025-08-21 11:16:16,398 - pipeline - INFO - Collecting data from twitter...
+2025-08-21 11:16:16,404 - pipeline - INFO - Collecting data from youtube...
+2025-08-21 11:16:17,433 - pipeline - WARNING - No data collected from any platform
